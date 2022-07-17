@@ -1,8 +1,8 @@
-## Readme-generator
+## README Generator
 ![Licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-A web application that allows users to quickly generate a readme file for their project
+A convenient solution for developers to generate a README file for their projects
 
 ## Table of Contents
 - [Description](#description)
@@ -14,19 +14,21 @@ A web application that allows users to quickly generate a readme file for their 
 - [Questions](#questions)
 
 ## Installation
-Please clone git reposiroty and then download proper NPM packages, specifically the Inquirer package, which can be found on https://www.npmjs.com/package/inquirer
+Please clone this GitHub reposiroty and install Inquirer package. Inquirer installation instructions and details can be found at https://www.npmjs.com/package/inquirer
 
 ## Usage
-Please follow prompts on the terminal once the app has been launched
+Please follow questionnaire once Inquirer NPM package has been installed.
+![Screenshot](/src/Screenshot%202022-07-17%20at%2014.54.09.png)
+Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Contributors
-Malick Ba
+Malick Ba, Software Engineer
 
 ## Test
-No testing is required
+No testing required
 
 ## Questions
 if you have any questions or feedback, please contact me: malickbax@gmail.com. More of my projects are available on https://github.com/malickbax

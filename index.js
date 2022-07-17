@@ -6,7 +6,6 @@ const generateMarkdown = require("./utils/generateMarkdown")
 const writeToFile = util.promisify(fs.writeFile);
 
 // TODO: Create an array of questions for user input
-// const questions = [];
 function promptUser(){
     return inquirer.prompt([
         {
@@ -74,10 +73,9 @@ async function init() {
         const generateContent = generateMarkdown(data);
         
 // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
         await writeToFile('./dist/README.md', generateContent);
         console.log('README.md successfully generated.');
-    // Catch statement below defines a block of code to be executed if an error occurs in the try block
+// Catch statement below defines a block of code to be executed if an error occurs in the try block
     }   catch(err) {
         console.log(err);
     }
