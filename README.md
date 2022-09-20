@@ -18,7 +18,6 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 
 ## Usage
 Please follow questionnaire once Inquirer NPM package has been installed.
-![Screenshot](/src/Screenshot%202022-07-17%20at%2014.54.09.png)
 Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
 
 ## License
