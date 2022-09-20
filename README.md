@@ -11,7 +11,6 @@ A convenient solution for developers to generate a README file for their project
 - [License](#license)
 - [Contributors](#contributors)
 - [Test](#test)
-- [Questions](#questions)
 
 ## Installation
 Please clone this GitHub reposiroty and install Inquirer package. Inquirer installation instructions and details can be found at https://www.npmjs.com/package/inquirer
