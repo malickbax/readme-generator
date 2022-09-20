@@ -28,6 +28,6 @@ Malick Ba, Software Engineer
 ## Test
 No testing required
 
-## Other projects
+## More Projects
 More of my projects are available on https://github.com/malickbax
 
