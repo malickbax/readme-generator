@@ -9,7 +9,6 @@ A convenient solution for developers to generate a README file for their project
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#usage)
-- [License](#screenshot)
 - [Contributors](#contributors)
 - [Test](#test)
 
@@ -25,9 +24,6 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 ## Screenshot
 Screenshot of Generated README file Code:
 ![Generated README](screenshot.jpg)
-
-## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Contributors
 Malick Ba, Software Engineer
