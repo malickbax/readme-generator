@@ -2,7 +2,7 @@
 ![Licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-A convenient solution for developers to generate a README file for their projects
+A convenient solution for developers to generate a README file for their projects. This is a command line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 ## Table of Contents
 - [Description](#description)
