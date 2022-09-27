@@ -16,8 +16,9 @@ A convenient solution for developers to generate a README file for their project
 Please clone this GitHub reposiroty and install Inquirer package. Inquirer installation instructions and details can be found at https://www.npmjs.com/package/inquirer
 
 ## Usage
-Please follow questionnaire once Inquirer NPM package has been installed.
-Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
+- Use `node index` in the command line to launch the application then follow questionnaire.
+
+- Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
 ![Screenshot](tutorial.gif)
 
 ## License
