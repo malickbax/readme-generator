@@ -8,7 +8,8 @@ A convenient solution for developers to generate a README file for their project
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Screenshot](#usage)
+- [License](#screenshot)
 - [Contributors](#contributors)
 - [Test](#test)
 
@@ -21,7 +22,7 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 
 ![Screenshot](tutorial.gif)
 
-## Screenshot of Generated README file code
+## Screenshot of Generated README file Code
 The following image shows the generated README:
 ![Generated README](./assets/screenshot.png)
 
