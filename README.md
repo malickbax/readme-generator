@@ -22,8 +22,8 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 
 ![Screenshot](tutorial.gif)
 
-## Screenshot of Generated README file Code
-The following image shows the generated README:
+## Screenshot
+Screenshot of Generated README file Code:
 ![Generated README](screenshot.jpg)
 
 ## License
