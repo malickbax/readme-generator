@@ -17,8 +17,7 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 
 ## Usage
 - Use `node index` in the command line to launch the application then follow questionnaire.
-
-- Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
+- A full walkthough video can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
 ![Screenshot](tutorial.gif)
 
 ## License
