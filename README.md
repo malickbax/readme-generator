@@ -4,6 +4,9 @@
 ## Description
 A convenient solution for developers to generate a README file for their projects. This is a command line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
+## User Story
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -32,5 +35,6 @@ Malick Ba, Software Engineer
 No testing required
 
 ## More Projects
-This README file was generated using the readme-generator. More of my projects are available on https://github.com/malickbax
+This README file was generated using the readme-generator.
 
+Author: **Malick Ba**, Software Engineer based in Virginia, USA. For more projects, please visit my [GitHub page](https://github.com/malickbax)
