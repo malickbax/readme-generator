@@ -16,9 +16,14 @@ A convenient solution for developers to generate a README file for their project
 Please clone this GitHub reposiroty and install Inquirer package. Inquirer installation instructions and details can be found at https://www.npmjs.com/package/inquirer
 
 ## Usage 
-- Use `node index` in the command line to launch the application then follow questionnaire.
+- Use `node index` in the command line to launch the application then follow the prompts. README.md file will be generated under the "dist" folder.
 - A walkthough video can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
+
 ![Screenshot](tutorial.gif)
+
+## Screenshot of Generated README file code
+The following image shows the generated README:
+![Generated README](./assets/screenshot.png)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
