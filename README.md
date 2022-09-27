@@ -19,6 +19,8 @@ Please clone this GitHub reposiroty and install Inquirer package. Inquirer insta
 Please follow questionnaire once Inquirer NPM package has been installed.
 Video for usage instructions can be found here: https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view
 
+This README file was generated using the readme-generator
+
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
