@@ -41,7 +41,7 @@ Screenshot of Generated README file Code:
 Malick Ba, Software Engineer
 
 ## Test
-No testing required
+No testing required.
 
 ## More Projects
 This README file was generated using the readme-generator.
